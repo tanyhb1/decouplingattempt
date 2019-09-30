@@ -1,0 +1,5 @@
+EXCLUDE_QUERY_DIR
+B ../_build/default/runners/.z3_scilexp_parser.eobjs/byte
+S .
+FLG -ppx '/home/bryan/Documents/YNC/other/Zilliqa/asdf/_build/default/.ppx/e8dad7d29b84b00670873069c2c65951/ppx.exe --as-ppx'
+FLG -w -40

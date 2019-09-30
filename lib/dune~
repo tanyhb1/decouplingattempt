@@ -1,0 +1,7 @@
+(library
+(name z3_lib)
+(public_name z3-lib)
+(wrapped false)
+(libraries z3 scilla-base)
+(preprocess (pps ppx_sexp_conv ppx_let ppx_deriving.show ))
+)	
